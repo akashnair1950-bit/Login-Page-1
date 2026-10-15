@@ -1,0 +1,67 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+body{
+	background-image:url(https://storyblok-cdn.photoroom.com/f/191576/768x432/5f07228c7f/black_backgrounds_cover.webp/m/3840x0/filters:quality(80):no_upscale():format(webp));
+	background-size:100% 100%;
+}
+.float{
+	float:left;
+}
+.border{
+	border-radius:30px;
+}
+.main{
+	height:600px;
+	width:80%;
+	background-image:url(https://img.magnific.com/free-vector/abstract-soft-brown-watercolor-texture-background-design_1055-19936.jpg?semt=ais_hybrid&w=740&q=80);
+	background-size:100% 100%;
+	margin:4% 10%;
+	box-shadow:0px 0px 20px gray;
+}
+.content{
+	height:100%;
+	width:44%;
+	background-color:lightgray;
+}
+.left{
+	width:56%;
+	text-align:center;
+	padding-top:17%;
+	border-radius:30px 0px 0px 30px;
+	background-image:url(https://img.magnific.com/free-vector/abstract-organic-pattern-design-background_1048-19286.jpg?semt=ais_hybrid&w=740&q=80);
+}
+.left h1{
+	font-size:55px;
+	margin-bottom:5px;
+	color()
+}
+.right{
+	border-radius:0px 30px 30px 0px;
+	padding:10% 70px;
+	text-align:;
+}
+fieldset{
+	border:none;
+}
+form{
+	height:300px;
+	font-size:25px;
+	padding:7% 20px;
+}
+input{
+	height:30px;
+	width:90%;
+	margin:10px;
+	border:none;
+	border-radius:5px;
+}
+label{
+	margin:10px;
+}
+.but{
+	width:100px;
+	margin:20px 35%;
+}
